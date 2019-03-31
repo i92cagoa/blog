@@ -1,3 +1,8 @@
+---
+layout: index
+title: Blogging Like a Hacker
+---
+
 ## Welcome to this blog project!
 
 You can use the [editor on GitHub](https://github.com/i92cagoa/blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
